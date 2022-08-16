@@ -30,7 +30,7 @@ ${package_declaration}
 
 /**
  *
- * @author Blu Jack
+ * @author Blue Maxx
  */
 ${type_declaration}
 </template><template autoinsert="true" context="classbody_context" deleted="false" description="Code in new class type bodies" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.classbody" name="classbody">
